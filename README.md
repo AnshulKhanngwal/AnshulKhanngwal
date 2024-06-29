@@ -14,7 +14,7 @@
 
 💬 Ask me about **Python, Django, Django REST Framework**
 
-⚡ Fun fact **If you tried and failed finding solution to a problem. You still leart a lot.**
+⚡ Fun fact **If you tried and failed finding solution to a problem. You still learnt a lot.**
 
  </div>
 
