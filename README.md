@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an SaaS project**
+ 🔭 I’m currently working on **Upskilling Myself**
  
  🌱 I’m currently learning **AI**
 
