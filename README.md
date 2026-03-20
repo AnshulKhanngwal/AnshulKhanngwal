@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **an SaaS project**
  
- 🌱 I’m currently learning **Next.js, React.js**
+ 🌱 I’m currently learning **AI**
 
-💬 Ask me about **Python, Django, Django REST Framework**
+💬 Ask me about **Python, Django, Django REST Framework, React, Next, Javascript, Typescript, Docker, PHP**
 
 ⚡ Fun fact **If you tried and failed finding solution to a problem. You still learnt a lot.**
 
